@@ -39,7 +39,7 @@ Fim da 2o Etapa do CSS
                 transition: all 0.5s ease;
     font-size: 1.2em;
     background: rgb(44,62,80);
-        background-image: -moz-linear-gradient(135deg, rgb(3,8,12), rgb(16, 57, 79));
+        background-image: -moz-linear-gradient(135deg, rgb(3,8,12), rgb(16, 79, 37));
             background-image: -webkit-linear-gradient(135deg, rgb(3, 8, 12), rgb(16, 57,79));
                 background-image: -o-linear-gradient(135deg, rgb(3, 8, 12), rgb(16, 57, 79));
                     background-image: -ms-linear-gradient(135deg, rgb(3, 8, 12), rgb(16, 57, 79));
@@ -75,12 +75,12 @@ Fim da 2o Etapa do CSS
 }
 
 /* 
-Fim da 3o Etapa
+Ocultar menu
  */ 
 
  /* -------------------------------------------------------------------------------------------- */
 
-/* 4o Etapa do projeto do menu responsivo */
+/* Seção menu */
 #lateral .box {
     list-style-type: none;
     margin-bottom: 1em;
@@ -175,4 +175,4 @@ Fim da 3o Etapa
             
 }
 
-/* FIM DA CONFIGURAÇÃO RESPONSIVA */
+/* FIM DA CONFIGURAÇÃO RESPONSIVIDADE */
